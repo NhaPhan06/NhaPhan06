@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **Nha Phan (Leo)**, a **Backend Developer** and **Fullstack Enthusiast** passionate about building scalable web applications. I'm currently working on microservices architectures, DevOps, and backend development with .NET, Java, and Golang. 🚀
+Hi there, I'm **Nha Phan (Leo)**, a **Backend Developer** and **Fullstack Enthusiast** passionate about building scalable web applications. I'm currently working on microservices architectures, DevOps, and backend development with .NET, Java. 🚀
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -40,7 +40,8 @@ Hi there, I'm **Nha Phan (Leo)**, a **Backend Developer** and **Fullstack Enthus
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![Nha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NhaPhan06&show_icons=true&hide_border=true)
-⭐️ From [NhaPhan06](https://github.com/NhaPhan06)
+ 
+ ⭐️From [NhaPhan06](https://github.com/NhaPhan06)
 
 
 
