@@ -1,14 +1,15 @@
 ### Hey 👋, I'm Nha - Leo
 
 <a href="https://www.linkedin.com/in/NhaPhan06/">
-  <img align="left" alt="Nha's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Nha's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />
 </a>
 <a href="https://github.com/NhaPhan06">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 </a>
 <a href="mailto:phanthanhnha06@gmail.com">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
+
 
 <br />
 <br />
